@@ -178,7 +178,7 @@ html,
 body {
   width: 100%;
   padding: 0;
-  margin: 0;
+  margin: 0 0 0 0;
 }
 body {
   background-image: url("../images/3008-purple-galaxy-1920x1200-fantasy-wallpaper (1).jpg");
@@ -231,7 +231,7 @@ header {
 }
 
 header img {
-  margin: 30px 365px;
+  margin: 30px 245px;
 }
 /* -------------------------------------------- */
 /* ------------------Navigation---------------- */
@@ -433,7 +433,7 @@ nav .wrap-nav {
 /* -------------------------------------------- */
 /* -----------------Footer-------------------- */
 footer {
-  margin-top: -439px;
+  margin-top: -360px;
 }
 .wrap-footer {
   background: #000000;
